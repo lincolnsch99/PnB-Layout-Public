@@ -42,3 +42,9 @@ For the tool to allow you to customize as much as possible, I’ve made it so yo
 - The last section in the settings window contains functionality for the top bans portion of the layout. There is a simple button and checkbox. The checkbox is simply to display the current top ban data. Without sufficient data it likely won’t display correctly, so be sure to leave the checkbox unchecked if you do not plan on using this feature.
 - The button is all you really need to use. What the button does is read the current team being displayed and what bans have been chosen and stores them in a .json file in the corresponding team’s folder. (To be specific, top bans are the bans against that team). This is all automatic and will give you a confirmation message before committing to it, because I currently don’t have functionality for undoing these unless you go in and do it manually. For displaying these top bans, all calculation is done automatically so there is nothing more you have to do after submitting all drafts for a team.
 - The .json files that these stats are stored in are easily accessible in the team folders and can be shared to others if you want to have the same data. The guide video goes into much more detail and I highly recommend watching it.
+
+# Future Additions/Features Being Worked On
+## More Customization:
+- Currently there are static elements in the layout (picks/bans/score/etc). I’d like to hopefully make these customizable as well in the future. This is likely the biggest task right now and will take a while to implement.
+ 
+If you have suggestions or bugs to report, please contact MeatyManLink#7738 on discord, or email lincolnsch99@outlook.com.
