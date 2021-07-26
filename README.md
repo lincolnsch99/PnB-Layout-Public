@@ -44,7 +44,7 @@ For the tool to allow you to customize as much as possible, I’ve made it so yo
 - The .json files that these stats are stored in are easily accessible in the team folders and can be shared to others if you want to have the same data. The guide video goes into much more detail and I highly recommend watching it.
 
 # Future Additions/Features Being Worked On
-## More Customization:
-- Currently there are static elements in the layout (picks/bans/score/etc). I’d like to hopefully make these customizable as well in the future. This is likely the biggest task right now and will take a while to implement.
- 
+## Integrating with other games
+- I'd like to use this on other games such as League of Legends, DOTA, maybe even the new Pokemon Unite, or really any game with picks/bans really. 
+
 If you have suggestions or bugs to report, please contact MeatyManLink#7738 on discord, or email lincolnsch99@outlook.com.
