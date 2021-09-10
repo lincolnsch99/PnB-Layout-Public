@@ -26,6 +26,7 @@ Cerberus
 Cernunnos
 Chaac
 Change
+Charybdis
 Chernobog
 Chiron
 Chronos
