@@ -2,7 +2,7 @@
   "bancounts": {
     "Achilles": 2,
     "Agni": 1,
-    "Ah Muzen Cab": 1,
+    "Ah Muzen Cab": 2,
     "Ah Puch": 1,
     "Amaterasu": 1,
     "Anhur": 0,
@@ -19,13 +19,13 @@
     "Baba Yaga": 0,
     "Bacchus": 0,
     "Bakasura": 0,
-    "Baron Samedi": 0,
+    "Baron Samedi": 1,
     "Bastet": 0,
     "Bellona": 0,
     "Cabrakan": 1,
     "Camazotz": 0,
     "Cerberus": 0,
-    "Cernunnos": 0,
+    "Cernunnos": 1,
     "Chaac": 0,
     "Change": 0,
     "Chernobog": 0,
@@ -45,7 +45,7 @@
     "Ganesha": 0,
     "Geb": 0,
     "Gilgamesh": 0,
-    "Guan Yu": 0,
+    "Guan Yu": 1,
     "Hachiman": 0,
     "Hades": 0,
     "He Bo": 0,
@@ -115,8 +115,9 @@
     "Ymir": 0,
     "Zeus": 0,
     "Zhong Kui": 0,
-    "Charybdis": 1
+    "Charybdis": 1,
+    "Cliodhna": 1
   },
-  "totalgames": 2,
+  "totalgames": 3,
   "teamname": "Chaos"
 }

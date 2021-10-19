@@ -3,7 +3,7 @@
     "Achilles": 0,
     "Agni": 0,
     "Ah Muzen Cab": 0,
-    "Ah Puch": 0,
+    "Ah Puch": 2,
     "Amaterasu": 1,
     "Anhur": 1,
     "Anubis": 2,
@@ -19,13 +19,13 @@
     "Baba Yaga": 0,
     "Bacchus": 0,
     "Bakasura": 0,
-    "Baron Samedi": 0,
+    "Baron Samedi": 2,
     "Bastet": 0,
     "Bellona": 0,
     "Cabrakan": 0,
     "Camazotz": 0,
     "Cerberus": 0,
-    "Cernunnos": 0,
+    "Cernunnos": 1,
     "Chaac": 1,
     "Change": 0,
     "Chernobog": 0,
@@ -115,8 +115,9 @@
     "Ymir": 0,
     "Zeus": 0,
     "Zhong Kui": 0,
-    "Charybdis": 0
+    "Charybdis": 0,
+    "Cliodhna": 0
   },
-  "totalgames": 2,
+  "totalgames": 3,
   "teamname": "Order"
 }

@@ -30,6 +30,7 @@ Charybdis
 Chernobog
 Chiron
 Chronos
+Cliodhna
 Cthulu
 Cu Chulainn
 Cupid
