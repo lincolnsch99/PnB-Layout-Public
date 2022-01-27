@@ -13,6 +13,7 @@ Ares
 Artemis
 Artio
 Athena
+Atlas
 Awilix
 Baba Yaga
 Bacchus
