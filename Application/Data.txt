@@ -1,4 +1,0 @@
--resources_path-
-C:/Users/Link the Exalted/Desktop/Smite_Layout_Resource_Folders/LoL_Template
--resolution-
-0
