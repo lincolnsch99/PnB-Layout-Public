@@ -93,6 +93,7 @@ Ravana
 Scylla
 Serqet
 Set
+Shiva
 Skadi
 Sobek
 Sol
