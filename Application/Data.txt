@@ -1,0 +1,4 @@
+-resources_path-
+C:/Users/Link the Exalted/Desktop/Smite_Layout_Resource_Folders/JoustLeague
+-resolution-
+0
