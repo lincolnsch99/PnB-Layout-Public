@@ -55,14 +55,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Smite_PnB_Layout.exe" size="7328288">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Smite_PnB_Layout.exe" size="7297024">
       <assemblyIdentity name="Smite_PnB_Layout" version="1.0.0.0" publicKeyToken="3ABD7126BC9C2F29" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>VlrlYZQ+TVN6HlQI8hg8L41hmrwxONZuGv917TCPHa8=</dsig:DigestValue>
+        <dsig:DigestValue>ZyR7MtG/PUQWAbr/33oMzkhY0LL4C5zzEmsCl6K+2Ro=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
