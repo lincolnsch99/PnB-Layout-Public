@@ -55,14 +55,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Smite_PnB_Layout.exe" size="7297024">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Smite_PnB_Layout.exe" size="6929408">
       <assemblyIdentity name="Smite_PnB_Layout" version="1.0.0.0" publicKeyToken="3ABD7126BC9C2F29" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>RJ+t08rfCD5qkElPYl4oKNYL01OBwz35fGdOzzyXcJ8=</dsig:DigestValue>
+        <dsig:DigestValue>YOQwYgVi0jdyA7armPY0A5vZ8vijyslR7jLIAjcWVt8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -162,15 +162,6 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="Achilles.mp3" size="19633">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>6aGhmK73AHFJwSwCqIKVGPEBdSXh9nXUqI2mbo1GayM=</dsig:DigestValue>
-    </hash>
-  </file>
   <file name="PnB_Layout_Logo.ico" size="4286">
     <hash>
       <dsig:Transforms>
